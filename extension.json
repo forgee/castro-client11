@@ -1,0 +1,8 @@
+{
+    "author": "Forgee",
+    "name": "Client 11 login service",
+    "id": "castro-client11",
+    "version": "0",
+    "description": "Add support for Client 11. Connect using example.com/nocsrf/play",
+    "url": "https://plugins.castroaac.org"
+}
